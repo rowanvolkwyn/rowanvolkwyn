@@ -1,15 +1,14 @@
 import './App.css';
-import { scrollSnap } from 'react-scroll-snap';
 import Home from './views/Home';
 import Experience from './views/Experience';
+import Projects from './views/Projects';
 
 function App() {
   return (
     <div>
-      <scrollSnap snap snapAlign="start" snapVertical>
         <Home />
         <Experience />
-      </scrollSnap>
+        <Projects />
     </div>
 
   )
