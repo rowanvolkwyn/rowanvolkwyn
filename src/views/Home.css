@@ -2,6 +2,7 @@
     width: 60%;
     margin: 400px auto;
     background-color: #233D4D;
+    height: max-content;
 }
 
 h1, h2 {
