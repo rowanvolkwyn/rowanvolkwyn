@@ -26,7 +26,7 @@ function Experience() {
             </div>
             <div class='job-tile'>
                 <h4>Quality Engineer <strong>@ PEXA</strong></h4>
-                <p>September 2023 - November 2023</p>
+                <p>February 2020 - August 2020</p>
                 <ul>
                     <li><p>Developed automated test scripts to ensure quality standards were met on the PEXA Platform</p></li>
                     <li><p>Established comprehensive testing standards used company wide</p></li>
