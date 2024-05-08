@@ -1,6 +1,11 @@
 import './Home.css';
+import resume from '../assets/resume.pdf'
 
 function Home() {
+    const openPdf = () => {
+        window.open(resume);
+    };
+
     return (
         <div id='container'>
             <p id="intro"><strong>Hi, my name is</strong></p>
@@ -9,7 +14,7 @@ function Home() {
             <p>I love building <strong>fullstack apps</strong> that<strong> delight the user </strong>
               and <strong>provide tremendous value.</strong> <br></br>I'm currently looking to join a team of like-minded people 
              to help solve issues that I'm passionate about.</p>
-             <button>Check out my Resume!</button>
+             <button onClick={openPdf}>Check out my Resume!</button>
         </div>
     )
 }

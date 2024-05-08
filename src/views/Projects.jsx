@@ -1,10 +1,11 @@
 import './Projects.css';
+import peak from '../assets/peak-screenshot.jpeg';
 
 function Projects() {
     return (
         <div id="project-content">
             <div id='left'>
-
+                <img src={peak}></img>
             </div>
             <div id="right">
                 <p class="right"><strong>Featured Project</strong></p>

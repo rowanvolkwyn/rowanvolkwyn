@@ -61,7 +61,7 @@ button:hover {
     h1, p {
         max-width: 330px; /* Change max-width when screen width is less than 1150px */
     }
-    #home-container {
+    #container {
         width: 40%;
     }
 }
