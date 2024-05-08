@@ -2,7 +2,7 @@ import './Home.css';
 
 function Home() {
     return (
-        <div id='home-container'>
+        <div id='container'>
             <p id="intro"><strong>Hi, my name is</strong></p>
             <h1>Rowan Volkwyn</h1>
             <h2>and I'm a Software Engineer.</h2>

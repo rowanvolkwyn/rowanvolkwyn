@@ -1,4 +1,4 @@
-#home-container {
+#container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,6 +62,6 @@ button:hover {
         max-width: 330px; /* Change max-width when screen width is less than 1150px */
     }
     #home-container {
-        width: 40%
+        width: 40%;
     }
 }

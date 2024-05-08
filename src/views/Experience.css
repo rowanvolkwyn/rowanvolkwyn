@@ -13,3 +13,7 @@ p {
 li {
     color: #F5853F;
 }
+
+h3, h4, p, li {
+    min-width: 340px;
+}
