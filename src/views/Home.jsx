@@ -2,8 +2,8 @@ import './Home.css';
 
 function Home() {
     return (
-        <div id='container'>
-            <p><strong>Hi, my name is</strong></p>
+        <div id='home-container'>
+            <p id="intro"><strong>Hi, my name is</strong></p>
             <h1>Rowan Volkwyn</h1>
             <h2>and I'm a Software Engineer.</h2>
             <p>I love building <strong>fullstack apps</strong> that<strong> delight the user </strong>

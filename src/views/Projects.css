@@ -12,14 +12,15 @@
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-p {
-    text-align: right;
+
+p.right {
     margin: 10px 50px;
+    text-align: right;
 }
 
-h3 {
-    text-align: right;
+h3.right {
     margin: 10px 50px 30px;
+    text-align: right;
 }
 
 #synopsis {
