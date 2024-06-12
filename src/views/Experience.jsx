@@ -8,7 +8,7 @@ function Experience() {
                 <h4>Engineer <strong>@ PEXA</strong></h4>
                 <p>September 2023 - November 2023</p>
                 <ul>
-                    <li><p>Refactored and onboarded APIS to the API Gateway using Kong</p></li>
+                    <li><p>Refactored and onboarded APIs to the Kong API Gateway</p></li>
                     <li><p>Independently handled onboarding and subscription in various environments (DEV and TEST)</p></li>
                     <li><p>Used GitHub Actions to modify actions, debug, run workflows and manage branches in different environments</p></li>
                     <li><p>Tested in Postman to ensure expected responses and tokens</p></li>

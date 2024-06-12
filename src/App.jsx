@@ -9,7 +9,6 @@ function App() {
       <Routes>
         <Route index element={<Home />} />
         <Route path='/experience' element={<Experience />} />
-        <Route path='projects' element={<Projects />} />
       </Routes>
     </BrowserRouter>
   )
